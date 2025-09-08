@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 User-agent: *
 Allow: /
 
 Sitemap: https://shubhamraut.dev/sitemap.xml
+=======
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+>>>>>>> 1e4d33984ac6f20e21fc8ade311969ff2ec78bce

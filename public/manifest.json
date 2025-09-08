@@ -1,11 +1,17 @@
 {
+<<<<<<< HEAD
   "short_name": "Shubham Portfolio",
   "name": "Shubham Raut - MERN Stack Developer Portfolio",
+=======
+  "short_name": "React App",
+  "name": "Create React App Sample",
+>>>>>>> 1e4d33984ac6f20e21fc8ade311969ff2ec78bce
   "icons": [
     {
       "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
+<<<<<<< HEAD
     },
     {
       "src": "logo192.png",
@@ -16,11 +22,18 @@
       "src": "logo512.png",
       "type": "image/png",
       "sizes": "512x512"
+=======
+>>>>>>> 1e4d33984ac6f20e21fc8ade311969ff2ec78bce
     }
   ],
   "start_url": ".",
   "display": "standalone",
+<<<<<<< HEAD
   "theme_color": "#a855f7",
   "background_color": "#0f172a",
   "description": "Portfolio website of Shubham Raut - MERN Stack Developer"
+=======
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+>>>>>>> 1e4d33984ac6f20e21fc8ade311969ff2ec78bce
 }
